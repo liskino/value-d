@@ -20,5 +20,19 @@
       "color": "#8774e1",
       "symbol": "🖼"
     }
+  },
+  "4504791": {
+    "name": "tabu",
+    "salt": "1b97834cd3a8cbb01626a8b134d295b7",
+    "hash": "80a6263614ed2cade728a8c5e66f3fcfb9e32055c6e7dca1cc49fc9da3857922",
+    "created": "2026-09-08T00:28:51.310976",
+    "tokens": [
+      "qKTnT8ZNNObbf_Yhgslfun5TCoppWra2"
+    ],
+    "avatar": {
+      "type": "color",
+      "color": "#8774e1",
+      "symbol": "🦄"
+    }
   }
 }
