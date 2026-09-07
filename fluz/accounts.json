@@ -20,19 +20,5 @@
       "color": "#8774e1",
       "symbol": "🖼"
     }
-  },
-  "6766913": {
-    "name": "gplyno",
-    "salt": "0644f677b12735665fb969083ee2b610",
-    "hash": "5bfa983aeeb075e3dc9fb1853ba73f09f9a38fd6b383f3c07a9e4c984d402aff",
-    "created": "2026-09-07T23:04:54.207654",
-    "tokens": [
-      "Eqt0NfHXNNpAds8sNvPYUSRo_-4TzlDa"
-    ],
-    "avatar": {
-      "type": "color",
-      "color": "#7bc862",
-      "symbol": "😎"
-    }
   }
 }
